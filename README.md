@@ -26,15 +26,6 @@ It detects emotional tone (Positive / Neutral / Negative) in **Russian 🇷🇺,
 | “Just another day.” | 😐 Neutral |
 
 ---
-
-## 💻 Installation
-```bash
-git clone https://github.com/YuliaAI/emotion-analyzer-ai.git
-cd emotion-analyzer-ai
-pip install -r requirements.txt
-python app.py
-
----
 ## 🧰 Technologies
 Python 3
 Transformers
@@ -52,3 +43,13 @@ MIT License — feel free to use, share, and improve.
 Julia — AI Developer & Language Enthusiast
 🌸 Focus: Artificial Intelligence, NLP, and Multilingual Technologies
 🔗 Hugging Face Profile
+
+---
+
+## 💻 Installation
+```bash
+git clone https://github.com/YuliaAI/emotion-analyzer-ai.git
+cd emotion-analyzer-ai
+pip install -r requirements.txt
+python app.py
+
