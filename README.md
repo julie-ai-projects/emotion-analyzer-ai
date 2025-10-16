@@ -1,5 +1,3 @@
-# emotion-analyzer-ai
-# 🌍 Многоязычный AI-анализатор эмоций
 # 🌍 Multilingual Emotion Analyzer — AI Sentiment Detection App
 
 A multilingual **AI emotion analyzer** built with 🤗 **Hugging Face Transformers** and **Gradio**.  
