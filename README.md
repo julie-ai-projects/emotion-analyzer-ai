@@ -25,6 +25,7 @@ cd emotion-analyzer-ai
 pip install -r requirements.txt
 python app.py
 
+---
 🧩 Используемые технологии
 
 Python 3
